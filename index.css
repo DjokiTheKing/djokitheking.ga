@@ -1,0 +1,11 @@
+body {
+	background-color: blue;
+}
+
+p{
+	text-align: middle;
+	font-size: 2.5cm;
+	border: 2px;
+	font-family: "Comic Sans";
+	color: red;
+}
