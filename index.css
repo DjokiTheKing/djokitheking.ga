@@ -19,3 +19,12 @@ p{
     height: 100%;
     border: 0;
 }
+
+h1{
+	text-align: center;
+	font-size: 3cm;
+	border: 5x dotted pink;
+	border-radius: 20px;
+	font-family: "Wingdings";
+	color: pink;
+}
